@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Base.V27.Night.Theme.Helia" parent="Base.V26.Night.Theme.Helia">
+        <item name="android:windowLightNavigationBar">false</item>
+    </style>
+
+    <style name="Base.Theme.Helia" parent="Base.V27.Night.Theme.Helia" />
+
+    <!-- Splash screen theme -->
+    <style name="Base.V27.Night.Theme.Splash" parent="Base.V26.Night.Theme.Splash">
+        <item name="android:windowLightNavigationBar">false</item>
+    </style>
+
+    <style name="Base.Theme.Splash" parent="Base.V27.Night.Theme.Splash" />
+
+</resources>

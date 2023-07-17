@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "958995698022",
+    "project_id": "helia-9d940",
+    "storage_bucket": "helia-9d940.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958995698022:android:90022ac52002eb8949b8a7",
+        "android_client_info": {
+          "package_name": "com.yuriikonovalov.helia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "958995698022-kepited3sahbgggrq2p1n3kta257vcvm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yuriikonovalov.helia",
+            "certificate_hash": "2baf14b08a6a85c31237c80fb6e274d77ff268f5"
+          }
+        },
+        {
+          "client_id": "958995698022-q0j5ubp4dldk7ujsapj5b9bth9n0kmak.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCj_AV_1qL3h-zi7cXSdEtQgYLyIqjCKjo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "958995698022-q0j5ubp4dldk7ujsapj5b9bth9n0kmak.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

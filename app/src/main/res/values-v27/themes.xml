@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Base.V27.Theme.Helia" parent="Base.V26.Theme.Helia">
+        <item name="android:windowLightNavigationBar">true</item>
+    </style>
+
+    <style name="Base.Theme.Helia" parent="Base.V27.Theme.Helia" />
+
+
+    <style name="Base.V27.Theme.Splash" parent="Base.V26.Theme.Splash">
+        <item name="android:windowLightNavigationBar">true</item>
+    </style>
+
+</resources>

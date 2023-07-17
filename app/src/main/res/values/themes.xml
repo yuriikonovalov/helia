@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Base.V26.Theme.Helia" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+    </style>
+
+    <style name="Base.Theme.Helia" parent="Base.V26.Theme.Helia" />
+
+    <style name="Theme.Helia" parent="Base.Theme.Helia" />
+
+    <!-- Splash screen theme -->
+    <style name="Base.V26.Theme.Splash" parent="Theme.SplashScreen">
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+
+    <style name="Base.Theme.Splash" parent="Base.V26.Theme.Splash" />
+
+
+    <style name="Theme.Splash" parent="Base.Theme.Splash">
+        <item name="windowSplashScreenAnimatedIcon">@drawable/ic_launcher_foreground</item>
+        <item name="windowSplashScreenBackground">@color/windowSplashScreenBackground</item>
+        <item name="postSplashScreenTheme">@style/Theme.Helia</item>
+    </style>
+</resources>
