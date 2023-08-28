@@ -1,6 +1,7 @@
 # Helia Hotel Booking App
 App Preview 
-![App Preview](/resources/helia-app-demo.gif)
+
+<img src="/resources/helia-app-demo.gif" width="250"/>
 
 Helia Hotel Booking App is an Android application that provides a user-friendly interface for booking hotels. This app is designed based on the [Helia Hotel Booking App UI Kit](https://ui8.net/munirsr/products/helia-hotel-booking-app-ui-kit) by [Munir SR](https://ui8.net/munirsr).
 
